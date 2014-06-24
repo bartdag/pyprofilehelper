@@ -1,0 +1,3 @@
+*.pyc
+cprofilehelper.egg-info
+dist
